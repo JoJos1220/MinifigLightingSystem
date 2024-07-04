@@ -8,6 +8,8 @@
 
 **Figure 1: Overview of the full assembly with Lightning Animation**
 
+[![PlatformIO CI][build-shield]][build-url]
+![License][license-url]
 [![Contributors][contributors-shield]][contributors-url]
 [![Release Version][realease-shield]][release-url]
 [![Release Date][releasedate-shield]][releasedate-url]
@@ -177,8 +179,11 @@ Well, I like coffee ;) Maybe we got a deal?
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/JoJo1220/MinifigLightingSystem
-[contributors-url]: https://github.com/JoJo1220/MinifigLightingSystem/graphs/contributors
+[build-shield]: https://github.com/JoJos1220/MinifigLightingSystem/actions/workflows/workflow.yml/badge.svg
+[build-url]: https://github.com/JoJos1220/MinifigLightingSystem/actions/workflows/workflow.yml
+[license-url]:https://img.shields.io/github/license/Jojos1220/MinifigLightingSystem?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/JoJos1220/MinifigLightingSystem
+[contributors-url]: https://github.com/JoJos1220/MinifigLightingSystem/graphs/contributors
 [realease-shield]: https://img.shields.io/github/release/JoJos1220/MinifigLightingSystem.svg?style=plastic
 [release-url]: https://github.com/JoJos1220/MinifigLightingSystem/releases/latest
 [releasedate-shield]: https://img.shields.io/github/release-date/JoJos1220/MinifigLightingSystem.svg?style=plastic
