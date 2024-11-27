@@ -8,12 +8,18 @@
 
 **Figure 1: Overview of the full assembly with Lightning Animation**
 
+[![Codacy Badge][codacy-shield]][codacy-url]
 [![PlatformIO CI][build-shield]][build-url]
 ![License][license-url]
-[![Contributors][contributors-shield]][contributors-url]
 [![Release Version][realease-shield]][release-url]
 [![Release Date][releasedate-shield]][releasedate-url]
 [![Last commit][lastcommit-shield]][lastcommit-url]
+[![Contributors][contributors-shield]][contributors-url]
+[![vscode.dev preview][vscode-dev-shield]][vscode-dev-url]
+[![Dependabot][depandbot-shield]][depandbot-url]
+[![GitHub Actions][githubactions-shield]][githubactions-url]
+[![PayPal][Paypal-shield]][paypal-url]
+[![Ko-Fi][Ko-Fi-shield]][Ko-Fi-url]
 
 ## About this Project and Repository
 Welcome to the source code repository for MinifigLighting, built on ESP8266 for the dynamic control of WS2812b LEDs arranged in a sequential configuration.
@@ -179,9 +185,14 @@ Well, I like coffee ;) Maybe we got a deal?
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
+[vscode-dev-shield]: https://img.shields.io/badge/preview%20in-vscode.dev-blue
+[vscode-dev-url]: https://open.vscode.dev/JoJos1220/MinifigLightingSystem
+
+[license-url]:https://img.shields.io/github/license/Jojos1220/MinifigLightingSystem?style=flat-square
+[codacy-shield]: https://app.codacy.com/project/badge/Grade/6d7d1f912c0549589f19d4fdf015cab0
+[codacy-url]: https://app.codacy.com/gh/JoJos1220/MinifigLightingSystem/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade
 [build-shield]: https://github.com/JoJos1220/MinifigLightingSystem/actions/workflows/workflow.yml/badge.svg
 [build-url]: https://github.com/JoJos1220/MinifigLightingSystem/actions/workflows/workflow.yml
-[license-url]:https://img.shields.io/github/license/Jojos1220/MinifigLightingSystem?style=flat-square
 [contributors-shield]: https://img.shields.io/github/contributors/JoJos1220/MinifigLightingSystem
 [contributors-url]: https://github.com/JoJos1220/MinifigLightingSystem/graphs/contributors
 [realease-shield]: https://img.shields.io/github/release/JoJos1220/MinifigLightingSystem.svg?style=plastic
@@ -190,3 +201,11 @@ Well, I like coffee ;) Maybe we got a deal?
 [releasedate-url]: https://github.com/JoJos1220/MinifigLightingSystem/releases/latest/
 [lastcommit-shield]: https://img.shields.io/github/last-commit/JoJos1220/MinifigLightingSystem?style=plastic
 [lastcommit-url]: https://github.com/JoJos1220/MinifigLightingSystem/tree
+[depandbot-shield]: https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white
+[depandbot-url]:https://github.com/JoJos1220/MinifigLightingSystem/actions/workflows/dependabot.yml
+[githubactions-shield]: https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white
+[githubactions-url]:https://github.com/JoJos1220/MinifigLightingSystem/actions
+[paypal-shield]: https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white
+[paypal-url]: https://www.paypal.com/donate/?hosted_button_id=8CTAKMUENCF46
+[Ko-Fi-shield]: https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white
+[Ko-Fi-url]: https://ko-fi.com/G2G3OAILE
