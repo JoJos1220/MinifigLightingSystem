@@ -186,8 +186,7 @@ Well, I like coffee ;) Maybe we got a deal?
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [vscode-dev-shield]: https://img.shields.io/badge/preview%20in-vscode.dev-blue
-[vscode-dev-url]: https://open.vscode.dev/JoJos1220/MinifigLightingSystem
-
+[vscode-dev-url]: https://vscode.dev/github/JoJos1220/MinifigLightingSystem
 [license-url]:https://img.shields.io/github/license/Jojos1220/MinifigLightingSystem?style=flat-square
 [codacy-shield]: https://app.codacy.com/project/badge/Grade/6d7d1f912c0549589f19d4fdf015cab0
 [codacy-url]: https://app.codacy.com/gh/JoJos1220/MinifigLightingSystem/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade
